@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1026649618915",
+    "firebase_url": "https://notification-e455c.firebaseio.com",
+    "project_id": "notification-e455c",
+    "storage_bucket": "notification-e455c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026649618915:android:bab5c6611d842e4c8bc8d6",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026649618915-0f7ok5oul8khmu6hgvo0ga7dq7du9dfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushnotification",
+            "certificate_hash": "7ce58bd743bf3694d391a2e535055eb7d925eee2"
+          }
+        },
+        {
+          "client_id": "1026649618915-o4f68r5im8truds540g0olfnjvfkg44u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCd0AOdyiBnpphD3PQSrI2sN0OIBNrqC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026649618915-o4f68r5im8truds540g0olfnjvfkg44u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026649618915:android:28c97f8748d846388bc8d6",
+        "android_client_info": {
+          "package_name": "com.neo.spsvegetables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026649618915-oe5pok2i8n9k05qa0ebpq4mnhm1pjghq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neo.spsvegetables",
+            "certificate_hash": "7ce58bd743bf3694d391a2e535055eb7d925eee2"
+          }
+        },
+        {
+          "client_id": "1026649618915-o4f68r5im8truds540g0olfnjvfkg44u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCd0AOdyiBnpphD3PQSrI2sN0OIBNrqC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026649618915-o4f68r5im8truds540g0olfnjvfkg44u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026649618915:android:40b4267b8df6fd14",
+        "android_client_info": {
+          "package_name": "com.whatsapp.web.alarm_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026649618915-a7v443fonffi8m0au6tsep86kfdr852j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatsapp.web.alarm_notification",
+            "certificate_hash": "6a06de149592eba9c4f89e04cb18786606bf45c6"
+          }
+        },
+        {
+          "client_id": "1026649618915-o4f68r5im8truds540g0olfnjvfkg44u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCd0AOdyiBnpphD3PQSrI2sN0OIBNrqC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026649618915-o4f68r5im8truds540g0olfnjvfkg44u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

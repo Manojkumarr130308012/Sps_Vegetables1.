@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/Chart"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="center"
+        android:text="DEVICE ID"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffffff"
+        android:textSize="13dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="@dimen/margin15"
+        android:src="@drawable/information"
+        ></ImageView>
+
+    <TextView
+        android:id="@+id/no"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="center"
+        android:text="ID:"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/margin20"
+        android:layout_marginTop="@dimen/margin15"
+        android:textColor="#000000"
+        android:textSize="16dp" />
+
+
+</LinearLayout>
